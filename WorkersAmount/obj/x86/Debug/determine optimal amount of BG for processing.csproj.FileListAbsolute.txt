@@ -1,0 +1,8 @@
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\bin\Debug\determine optimal amount of BG for processing.exe
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\bin\Debug\determine optimal amount of BG for processing.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\determine optimal amount of BG for processing.exe
+C:\Users\Anna\documents\visual studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\determine optimal amount of BG for processing.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\determine optimal amount of BG for processing.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\determine optimal amount of BG for processing\determine optimal amount of BG for processing\obj\x86\Debug\determine optimal amount of BG for processing.csproj.GenerateResource.Cache
